@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "ramiraza.github.io/master-rolodex/static/css/main.2dc07b60.chunk.css",
+    "main.js": "ramiraza.github.io/master-rolodex/static/js/main.fd632a2c.chunk.js",
+    "main.js.map": "ramiraza.github.io/master-rolodex/static/js/main.fd632a2c.chunk.js.map",
+    "runtime-main.js": "ramiraza.github.io/master-rolodex/static/js/runtime-main.d1308648.js",
+    "runtime-main.js.map": "ramiraza.github.io/master-rolodex/static/js/runtime-main.d1308648.js.map",
+    "static/js/2.5e9c49fe.chunk.js": "ramiraza.github.io/master-rolodex/static/js/2.5e9c49fe.chunk.js",
+    "static/js/2.5e9c49fe.chunk.js.map": "ramiraza.github.io/master-rolodex/static/js/2.5e9c49fe.chunk.js.map",
+    "index.html": "ramiraza.github.io/master-rolodex/index.html",
+    "precache-manifest.52a098b4469cc21776d541f41e7fe029.js": "ramiraza.github.io/master-rolodex/precache-manifest.52a098b4469cc21776d541f41e7fe029.js",
+    "service-worker.js": "ramiraza.github.io/master-rolodex/service-worker.js",
+    "static/css/main.2dc07b60.chunk.css.map": "ramiraza.github.io/master-rolodex/static/css/main.2dc07b60.chunk.css.map",
+    "static/js/2.5e9c49fe.chunk.js.LICENSE.txt": "ramiraza.github.io/master-rolodex/static/js/2.5e9c49fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1308648.js",
+    "static/js/2.5e9c49fe.chunk.js",
+    "static/css/main.2dc07b60.chunk.css",
+    "static/js/main.fd632a2c.chunk.js"
+  ]
+}
